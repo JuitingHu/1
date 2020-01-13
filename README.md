@@ -1,5 +1,6 @@
 # The attrition of Shanghai Ctrip call centre
 
+This project used Ctrip WFH data.
 Using the WFH Ctrip data to develop three hypotheses.
 This report would explore the effect of age and marriage on the relationship between attrition in Shanghai Ctrip call centre.
 
