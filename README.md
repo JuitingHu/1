@@ -10,15 +10,15 @@ The hypothetical relationship between age, children and attrition are created as
 
 Hypothesis 1: Younger employees have higher turnover intentions than older employees.
                
-              Attrition= αAge+γMarried+εMen
+              Attrition= αAge + γMarried + εMen
 
 Hypothesis 2: Employees who have children have higher turnover intentions than those who do not have.
 
-              Attrition= βChildren+γMarried+εMen
+              Attrition= βChildren + γMarried+ εMen
 
 Hypothesis 3: Employees who are younger and have children are most likely to quit the job.
               
-              Attrition= αAge+βChildrem+γMarriedgender+εMen
+              Attrition= αAge + βChildren + γMarriedgender + εMen
 
 Then build the regression models and marginal effects to find the result of the research.
 
