@@ -1,14 +1,25 @@
 # The attrition of Shanghai Ctrip call centre
  
-This project used Ctrip WFH data.
-Using the WFH Ctrip data to develop three hypotheses.
-This report would explore the effect of age and marriage on the relationship between attrition in Shanghai Ctrip call centre.
+This project uses Ctrip WFH(working from home) data which is asked by the lecturer of Experiments for Business Analytics. It is collected from WFH experiment in Ctrip’s Shanghai call center from 2010 to 2011. 
 
-for the recruiter, obtaining personal information about age and children are quite easier than performance, satisfaction and so on
+Due to the significantly higher turnover rate in Ctrip’s Shanghai call center than in other industries, the purpose of the project which I set is to help Ctrip’s human resource department to reduce the high attrition rate and prevent employee turnover when they recruit new staffs. 
+
+For the recruiter, obtaining personal information about age and children are quite easier than performance, satisfaction and so on. Therefore, the research would explore the effect of age and marriage on the relationship between attrition in Shanghai Ctrip call centre.
+
+The hypothetical relationship between age, children and attrition are created as below.
 
 Hypothesis 1: Younger employees have higher turnover intentions than older employees.
                
-         Attrition= αAge+γMarried+εMen
+              Attrition= αAge+γMarried+εMen
+
+Hypothesis 2: Employees who have children have higher turnover intentions than those who do not have.
+
+              Attrition= βChildren+γMarried+εMen
+
+Hypothesis 3: Employees who are younger and have children are most likely to quit the job.
+              
+              Attrition= αAge+βChildrem+γMarriedgender+εMen
+
+Then build the regression models and marginal effects to find the result of the research.
 
 
-在每個專案的 repository 中，建立一個  README 檔案，詳述這個專案的目的、功能以及想要解決的問題。如果這個專案是一個應用程式，請說明安裝和使用方法
