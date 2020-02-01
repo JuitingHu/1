@@ -28,5 +28,6 @@ Secondly, the average marginal effects (AME) and P-value which are calculated ar
 
 
 For R code for this project, please see the script "RCode.R".
+
 Further detailed information on this project is available in "Essay_The attrition of Shanghai Ctrip call centre.pdf".
 
