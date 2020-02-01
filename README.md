@@ -24,10 +24,8 @@ The regression models and marginal effects are built and calculated to find the 
 
 Firstly, trying to run the OLS , however, since the binary dependent variable, results of model are not as expected. The probabilities cannot be less than 0 or greater than 1. Therefore, three models are re-established by running the logistic regression. Through this function, the output will become any real values betweeen 0 and 1.
 
-Secondly, the average marginal effects (AME) 
+Secondly, the average marginal effects (AME) and P-value which are calculated are referred to as the results of three hypothesis.
 
-
-
-
-
+For R code for this research, please see scripts "Project.R".
+Further detailed information on this research is available in the group report.
 
