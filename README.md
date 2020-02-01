@@ -26,6 +26,6 @@ Firstly, trying to run the OLS , however, since the binary dependent variable, r
 
 Secondly, the average marginal effects (AME) and P-value which are calculated are referred to as the results of three hypothesis.
 
-For R code for this research, please see scripts "Project.R".
+For R code for this research, please see scripts "RCode.R".
 Further detailed information on this research is available in "Essay_The attrition of Shanghai Ctrip call centre.pdf".
 
